@@ -8,7 +8,7 @@ def index(request):
     html = f'''
     <html>
         <body>
-            <h1>Structtura Builders!</h1>
+            <h1>Structtura Builders!2025</h1>
             <p>The current time is { now }.</p>
         </body>
     </html>
